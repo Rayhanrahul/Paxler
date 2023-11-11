@@ -1,0 +1,373 @@
+@media (max-width:1440px){
+    .input_section {
+        height: 72vh;
+    }
+    .jassica_koma {
+        right: 100px;
+    }
+    .letter {
+        right: 69px;
+    }
+    .icone {
+        margin-right: 90px;
+    }
+    .right {
+        margin-left: 90px;
+    }
+    .reserved {
+        margin-right: 130px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width:1024px){
+    header {
+        padding: 5px 0 !important;
+    }
+    .nav-link {
+        font-size: 13px;
+    }
+    .simple_section {
+        height: 100vh;
+    }
+    .input_section {
+        height: 75vh;
+    }
+    .letter {
+        right: 38px;
+    }
+    .phone img {
+        width: 33%;
+        left: 112px;
+    }
+    .box {
+        margin-top: 20px;
+        width: 73px;
+        height: 55px;
+    }
+    .Wallet {
+        padding-left: 37px;
+        margin-bottom: 25px;
+    }
+    .jassica_koma {
+        right: 55px;
+    }
+    .news input {
+        padding: 10px 17px 10px 22px;
+    }
+    .right {
+        margin-left: 30px;
+    }
+    .reserved {
+        margin-right: 65px;
+    }
+    .icon_1 a i {
+        margin-right: 12px;
+    }
+
+
+
+
+}
+
+
+@media (max-width:768px){
+    header {
+        padding: 5px 0;
+    }
+    .top p {
+        font-size: 14px;
+    }
+    .help nav ul li a {
+        padding: 0 10px;
+    }
+    .support {
+        justify-content: center;
+    }
+    .nav-item {
+        margin: auto;
+    }
+    .Secure h1 {
+        font-size: 33px;
+    }
+    .Verify {
+        margin: 35px 0 0;
+        padding: 15px 0
+    }
+    .view_more {
+        margin: 35px 0;
+    }
+    .btn_viwe {
+        padding: 10px 28px;
+        font-size: 14px;
+    }
+    .simple_section {
+        height: 100vh;
+    }
+    .phone img {
+        width: 40%;
+        left: 35px;
+    }
+
+    .box {
+        margin-top: 27px;
+        width: 120px;
+        height: 60px;
+    }
+    .Wallet {
+        margin-bottom: 20px;
+    }
+    .input_section {
+        height: 80vh;
+        margin: 30px 0;
+    }
+    .services h4 {
+        padding: 0px 0;
+    }
+    .popular_section {
+        margin: 0px
+    }
+    .admin {
+        margin-left: 24px;
+    }
+    .popular_box {
+        left: 5px;
+    }
+    .popular_section p {
+        padding-bottom: 0px;
+    }
+    .popular_section h6 {
+        margin: 15px 10px;
+    }
+    .popular_section p {
+        margin: 0 10px 10px;
+    }
+    .services h4 {
+        margin-top: 0px;
+        font-size: 18px;
+    }
+    .services {
+        text-align: center;
+        margin-top: 0px;
+    }
+    .services_section {
+        margin-top: 40px;
+    }
+    .services span {
+        margin-top: 20px;
+    }
+    .jassica_koma {
+        right: 25px;
+    }
+    .news input {
+        padding: 10px 0;
+    }
+    .letter {
+        right: 18px;
+        top: 2px;
+    }
+    .right {
+        margin-left: 0px;
+    }
+    .reserved {
+        margin-right: 40px;
+        font-size: 14px;
+    }
+    .register ul li a {
+        font-size: 12px;
+    }
+    .icon_1 a i {
+        height: 35px;
+        width: 35px;
+        margin-right: 10px;
+    }
+    .safa img {
+        padding: 45px 0 0;
+    }
+}
+
+
+@media (max-width:425px){
+    .top p{
+        font-size: 10px;
+        text-align: center;
+    }
+    .help nav ul {
+        justify-content: center;
+    }
+    .top_header {
+        height: 65px;
+    }
+    .help nav ul li a {
+        font-size: 15px;
+    }
+    .Secure h1 {
+        font-size: 29px;
+    }
+    .text-end {
+        text-align: center !important;
+        margin: 15px 0;
+    }
+    .text-start {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .phone img {
+        display: none;
+    }
+    .input_section {
+        height: 105vh;
+        margin: 30px 0;
+    }
+    .jassica_koma {
+        left: 220px;
+    }
+    .icone {
+        margin-right: 202px;
+    }
+    .looking {
+        margin: 20px 0;
+    }
+    .news input {
+        padding: 10px 50px 10px 13px;
+    }
+    .letter {
+        right: 199px;
+    }
+    .right {
+        margin-left: 120px;
+    }
+    .reserved {
+        margin-right: 109px;
+    }
+    .register ul li a {
+        font-size: 10px;
+    }
+}
+
+
+
+@media (max-width:375px){
+    .top p{
+        font-size: 10px;
+        text-align: center;
+    }
+    .help nav ul {
+        margin-left: -57px;
+    }
+    .nav-item {
+        text-align: center;
+        margin: auto;
+    }
+    .nav-link {
+        font-size: 14px;
+    }
+    header {
+        padding: 5px 0;
+    }
+    .Secure h1 {
+        font-size: 25px; 
+    }
+    .text-end {
+        text-align: center !important;
+        padding: 15px 0;
+    }
+    .text-start {
+        text-align: center !important;
+        padding: 10px 0;
+    }
+    .Verify {
+        margin: 10px 0;
+        
+    }
+    .will {
+        padding: 10px;
+    }
+    .phone img {
+        display: none;
+    }
+    .simple_section {
+        height: 112vh;
+    }
+    .box {
+        margin-top: 32px;
+        width: 100px;
+        height: 49px;
+    }
+    .transactions p {
+        font-size: 14px;
+    }
+    .input_section {
+        height: 107vh;
+        margin: 33px 0;
+    }
+    .letter {
+        right: 122px;
+    }
+    .looking {
+        margin: 20px 0;
+    }
+    .drive h4 {
+        margin-bottom: 15px;
+    }
+    .icone {
+        margin-right: 135px;
+    }
+    .jassica_koma {
+        right: 120px;
+    }
+    .jassica_koma {
+        position: absolute;
+        bottom: 0px;
+        right: 120px;
+    }
+    .top_footer{
+        display: none;
+    }
+    .jassica_koma {
+        left: 195px;
+    }
+    .letter {
+        right: 148px;
+    }
+}
+
+
+
+
+@media (max-width:320px){
+    .btn_joinus {
+        font-size: 14px;
+        padding: 10px 23px;
+        margin: 0px;
+    }
+    .letter {
+        left: 229px;
+    }
+    .input_section {
+        min-height: 108vh;
+    }
+    .jassica_koma {
+        left: 168px;
+    }
+    .letter {
+        left: 205px;
+    }
+    .box {
+        width: 120px;
+        height: 50px;
+    }
+
+
+
+} 
+
+
